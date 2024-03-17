@@ -1,0 +1,14 @@
+{
+    "channel_zip_cp_company": {
+        "Webhook": "https://discord.com/api/webhooks/1218693558882668606/fhHQXrQYZcH5lVmMM28DIIqtNP0POZfmSPGif4Fh2yausmqmYOdaWbV2wsHPzmMaT_5P",
+        "Brand": "cp_company",
+        "Maxprice": "40",
+        "Keyword": "zip"
+    },
+    "channel_jogging_nike": {
+        "Webhook": "https://discord.com/api/webhooks/1218693471699865703/s5SslhLLetq0cINW0lTr2QeuUDq6Ct1sZ37l6yJyfwTGiGIaev-ge_IX1yc33jUUFE95",
+        "Brand": "ralph_lauren",
+        "Maxprice": "40",
+        "Keyword": "zip"
+    }
+}
